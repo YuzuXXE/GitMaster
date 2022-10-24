@@ -1,2 +1,2 @@
 # GitMaster
-天气app仓库
+git提交学习
